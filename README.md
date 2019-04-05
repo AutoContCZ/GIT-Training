@@ -1,5 +1,6 @@
 # GIT-Training
-Repozitář pro testovací účely školení
+Repozitář pro testovací účely školení 
+https://github.com/AutoContCZ/GIT-Training
 
 # Předpoklady pro školení
 - Založený účet na [GitHub.com](https://github.com/)
