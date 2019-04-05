@@ -1,4 +1,4 @@
-# JÍDELNÍ LÍSTEK 
+# JÍDELNÍ LÍSTEK
 
 ## Pondělí
 
@@ -13,4 +13,3 @@
 ## Sobota
 
 ## Neděle
-
