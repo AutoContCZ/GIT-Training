@@ -7,6 +7,7 @@
 
 ```git remote add origin``` *URL webového repozitáře*
  - přidá výchozí remote pro repozitář, porti kterému se budeme synchronizovat
+   - *URL_webového_repozitáře* získáme z GitHub
 
 ```git add .```
  - přidá všechny soubory ve složce do *stage*
