@@ -18,10 +18,14 @@
 ```git push origin master```
  - nahraje commity na remote s názvem *origin* do větve *master*
 
+---
+
 ## Klonování repozitáře
 
 ```git clone``` *URL_webového_repozitáře*
  - naklonuje do současného místa repozitář z *URL_webového_repozitáře*
+
+---
 
 ## Lokální úpravy + jejich stage + přidání do commitu
 
@@ -36,9 +40,12 @@
 
 ```git commit -m "```*zpráva popisující úpravy v commitu*```"```
 
+---
 ## Publikace úprav
 ```git push```
  - nahraje commity do aktuální větve
+
+---
 
 ## Tagování verzí a jejich synchronizace s webem
 ```git tag``` *jmeno_tagu* ```-m "``` *zpráva popisující verzi*```"```
@@ -51,6 +58,8 @@
 ```git push --tags```
  - v případě, že jesště nebyly nikdy tagy synchronizovány s online repozitářem, nahraje všechny tagy
 
+---
+
 ## Získání úprav z repozitáře
 ```git fetch```
  - podívá se do webové verze repozitáře, a zjistí úpravy, stáhne je, ale neaplikuje je
@@ -58,6 +67,8 @@
 ```git pull```
  - stáhne změny a aplikuje je (může způsobit konflikty)
    - na pozadí provádí příkazy ```fetch``` a ```merge```
+
+---
 
 ## Větvení
 ```git branch -v```
@@ -73,6 +84,8 @@
 
 ```git checkout -b``` *jméno_větve* ```[```*revize*```]```
  - vytvoří novou větev se jménem *jmeno_vetve* z revize kterou můžeme specifikovat pomocí *revize* (výchozí parametr je ```HEAD```) a rovnou do ní přepne
+
+---
 
 ## Mergování
 ```git merge``` *jmeno_slucovane_vetve*
