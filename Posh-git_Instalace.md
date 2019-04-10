@@ -1,3 +1,5 @@
+# POZOR TENTO POPIS JE ZATÍM PRACOVNÍ !!!
+
 # Posh-Git - Nadstavba pro PowerShell na zobrazování Git repozitářů a barevných stavů 
 
 ## Ruční instalace ==============
