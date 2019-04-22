@@ -16,7 +16,7 @@ Repositář pojmenujeme dle naší libosti
 
 ## Initializace repositáře ve VSC
 
-Než začneme potřebujeme mít v vytvořenou složku, ze které vytvoříme repositář.
+Než začneme potřebujeme mít vytvořenou složku, ze které vytvoříme repositář.
 
 ### Initializace
 
