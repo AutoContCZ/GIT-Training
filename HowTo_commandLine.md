@@ -1,30 +1,3 @@
-# JÍDELNÍ LÍSTEK
+# Initializace repositáře pomocí příkazové řádky
 
-## Pondělí
-### Snídaně
-asdfasdfsafdfasd
-### Oběd
-### Večeře
-
-## Úterý
-### Snídaně
-sadfsadfsadfsadf
-### Oběd
-### Večeře
-
-## Středa
-### Snídaně
-sadfsadfsadfasdf
-### Oběd
-### Večeře
-
-## Čtvrtek
-### Snídaně
-### Oběd
-### Večeře
-
-## Pátek
-### Snídaně
-### Oběd
-asdfsadfsadfsafd
-### Večeře
+Není nutné mít vytvořenou složku, můžeme ji totiž vytvořit pomocí příkazové řádky.
