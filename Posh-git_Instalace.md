@@ -1,6 +1,6 @@
 # GIT v PowerShellu - nadstavba Posh-Git   
 Posh-Git je šikovný nástroj pro zobrazování Git repozitářů a barevných stavů. 
-![PS-PoshGit](\Media\PS-PoshGit.png)
+![PS-PoshGit](Media/PS-PoshGit.png)
 
 ## Nejjednodušší instalace
 Stáhněte si balíček s Posh-Git zde https://github.com/dahlbyk/posh-git/archive/v0.7.3.1.zip 
