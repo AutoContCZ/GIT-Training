@@ -2,16 +2,19 @@
 
 ## Pondělí
 ### Snídaně
+asdfasdfsafdfasd
 ### Oběd
 ### Večeře
 
 ## Úterý
 ### Snídaně
+sadfsadfsadfsadf
 ### Oběd
 ### Večeře
 
 ## Středa
 ### Snídaně
+sadfsadfsadfasdf
 ### Oběd
 ### Večeře
 
@@ -23,14 +26,5 @@
 ## Pátek
 ### Snídaně
 ### Oběd
-### Večeře
-
-## Sobota
-### Snídaně
-### Oběd
-### Večeře
-
-## Neděle
-### Snídaně
-### Oběd
+asdfsadfsadfsafd
 ### Večeře
