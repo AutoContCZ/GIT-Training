@@ -15,7 +15,7 @@ https://github.com/AutoContCZ/GIT-Training
     - Klikneme na *Proměnné prostředí...*
     - Poté klikneme na *Path* v podokně *Systémové proměnné* a klikneme *Upravit*
     - Klikneme na *Nový* a do řádku vložíme cestu k souboru *cmd* ze složky, kam se nám Git nainstaloval
-  - Pro hezké vybarvování budeme potřebovat doplněk *posh-git* pro PowerShell (doplněk jako takový i postup pro instalaci (v AJ) je dostupý [zde](https://github.com/dahlbyk/posh-git))
-    - ***TODO*** --> popis instalace a jak přidat do profilu
+  - Pro hezké vybarvování budeme potřebovat doplněk *posh-git* pro PowerShell (postup pro zprovoznění [zde](Posh-git_Instalace.md))
+    
 - Nainstalovaný GitHub Desktop (ke stažení [zde](https://desktop.github.com/))
 - Nainstalovaný VS Code (ke stažení [zde](https://code.visualstudio.com/download))
