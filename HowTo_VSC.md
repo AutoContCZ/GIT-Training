@@ -1,36 +1,65 @@
-# JÍDELNÍ LÍSTEK
+# Initializace repositáře pomocí Visual Studio Code
 
-## Pondělí
-### Snídaně
-### Oběd
-### Večeře
+## Vytvoření serverového repositáře
 
-## Úterý
-### Snídaně
-### Oběd
-### Večeře
+Otevřete [GitHub.com](https://github.com/) (a přihlaste se, pokud nejste přihlášeni)
 
-## Středa
-### Snídaně
-### Oběd
-### Večeře
+Pomocí tlačítka New vytvoříme nový repositář
 
-## Čtvrtek
-### Snídaně
-### Oběd
-### Večeře
+![NewButtonGitHub](Media/RepoCreation.png) 
 
-## Pátek
-### Snídaně
-### Oběd
-### Večeře
+Repositář pojmenujeme dle naší libosti
 
-## Sobota
-### Snídaně
-### Oběd
-### Večeře
+![GitHubRepoNaming](Media/RepoNaming.png) 
 
-## Neděle
-### Snídaně
-### Oběd
-### Večeře
+![GitHubBareRepo](Media/RepoRepos.png) 
+
+## Initializace repositáře ve VSC
+
+Než začneme potřebujeme mít v vytvořenou složku, ze které vytvoříme repositář.
+
+### Initializace
+
+Otevřeme složku ve VSC.
+
+![VSC-open](Media/VscOpen.png)
+
+Po přepnutí do náhledu pro GIT můžeme initializovat repositář.
+
+![VSC-repos](Media/VscInit.png)
+
+Vybereme složku, kde chceme initializovat. (Nabízí se jako první současná složka)
+
+![VSC-repoInit](Media/VscInitRepo.png)
+
+### Přidání remote
+
+Pro přidání *remote* potřebujeme zobrazit paletu příkazů.
+
+![VSC-remote1](Media/VscRemote1.png)
+
+Pomocí vyhledávání nalezneme příkaz pro přidání *remote* (stačí zadat remote)
+
+![VSC-remote2](Media/VscRemote2.png)
+
+Nyní zadáme jméno remote (pro výchozí remote je typické jméno *origin*)
+
+![VSC-remote3](Media/VscRemote3.png)
+
+Vložíme URL, které získáme z GitHub
+
+![VSC-remote4](Media/VscRemote4.png)
+
+### Přidání commitu a jeho publikace
+
+Pod *Changes* vydíme soubory, které jsou upravené, ale nejsou přidané do **stage**. tyto soubory přidáme pomocí malého plus, které se zobrazí, když na soubor najedeem myší.
+
+![VSC-stage](Media/VscStage.png)
+
+Soubory ve **stage** commitujeme pomocí fajifky. Je nutné zadat commit message.
+
+![VSC-commit](Media/VscCommit.png)
+
+Pomocí ikonky vedle jména větve v dolní liště VSC provedeme synchronizaci se serverovým remote.
+
+![VSC-publish](Media/VscPublish.png)
