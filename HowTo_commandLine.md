@@ -1,14 +1,14 @@
-# Initializace repositáře pomocí příkazové řádky
+# Initializace repozitáře pomocí příkazové řádky
 
-## Vytvoření serverového repositáře
+## Vytvoření serverového repozitáře
 
 Otevřete [GitHub.com](https://github.com/) (a přihlaste se, pokud nejste přihlášeni)
 
-Pomocí tlačítka New vytvoříme nový repositář
+Pomocí tlačítka New vytvoříme nový repozitář
 
 ![NewButtonGitHub](Media/RepoCreation.png) 
 
-Repositář pojmenujeme dle naší libosti
+Repozitář pojmenujeme dle naší libosti
 
 ![GitHubRepoNaming](Media/RepoNaming.png) 
 
@@ -16,9 +16,9 @@ Repositář pojmenujeme dle naší libosti
 
 ## Initializace repositáře ve VSC
 
-Než začneme potřebujeme mít vytvořenou složku, ze které vytvoříme repositář.
+Než začneme potřebujeme mít vytvořenou složku, ze které vytvoříme repozitář.
 
-Návod na initializaci dává k dispozici i GitHub, když založíme nový repositář.
+Návod na initializaci dává k dispozici i GitHub, když založíme nový repozitář.
 
 Pro úspěšný push potřebujeme mít alespoň 1 vytvořený, neprázdný soubor (nejčastěji je to README.md)
 
