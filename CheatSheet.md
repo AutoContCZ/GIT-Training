@@ -1,5 +1,15 @@
 # Git CheatSheet
 
+## Nastavení Jména a Emailu
+
+```git config --global user.name "```Vaše_jméno```"```
+ - globálně nastaví jméno pro "podpis" commitů na *Vaše_jméno*
+
+```git config --global user.email "```Váš_email```"```
+ - globálně nastaví email pro "podpis" commitů na *Váš_email*
+
+---
+
 ## Inicializace nového repozitáře
 
 ```git init```
