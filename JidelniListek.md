@@ -1,7 +1,9 @@
-#JÍDELNÍ LÍSTEK
+﻿# JÍDELNÍ LÍSTEK
 
 ## Pondělí
 ### Snídaně
+ - Miloš - ovesný vločky
+
 ### Oběd
  - JS: steak hovězí
  - Lukáš: slepice na smetaně
@@ -10,16 +12,17 @@
  - pavelhor: moje jidlo -obed
  - Marek: Brambory
 ### Večeře
+ - Miloš - toust s hráškem
 
 ## Úterý
 ### Snídaně
 ## Oběd 
-JS:steak telecí
-Dáša: Řízek s bramborovou kaší
-Petr: Kachna se zelím
-MB: N/A
-- Marek: Kaše
-### Oběd
+ - JS:steak telecí
+ - Dáša: Řízek s bramborovou kaší
+ - Petr: Kachna se zelím
+ - MB: N/A
+ - Marek: Guláš
+ - Miloš - Chicken Vindaloo
  - Dáša: Řízek s bramborovou kaší
  - Lukas: neni
  - Petr: Kachna se zelím
@@ -28,8 +31,7 @@ MB: N/A
 ## Středa
 ### Snídaně
 ### Oběd
-JS:steak kuřecí
-- Marek: Špagety
+ - JS:steak kuřecí
 ### Špagety
 ### Oběd
  - Špagety
@@ -39,7 +41,7 @@ JS:steak kuřecí
 ## Čtvrtek
 ### Snídaně
 ### Oběd
-JS:steak klokan
+ - JS:steak klokan
 ### Zeleninový salát
  - lukas: petnik
  - Zeleninový salát
@@ -48,19 +50,18 @@ JS:steak klokan
 ## Pátek
 ### Snídaně
 ### Oběd
-JS:steak tuňák
+ - JS:steak tuňák
 ### Rizoto	
  - Rizoto	
  - lukas: co dum dal
  - MB: N/A
  -Marek: Vejce
 ### Večeře
->>>>>>> 31d19c5c6e35731be228bbd32dbed3b8f91b58c0
 
 ## Sobota
 ### Snídaně
 ### Oběd
-Salat
+JS:Salat
 ### Večeře
 
 ## Neděle
