@@ -1,13 +1,13 @@
 ﻿# JÍDELNÍ LÍSTEK
 
 ## Pondělí
-### Snídaně nic
-### Oběd skoro nic
+### Snídaně nic,Smažený sýr, brambor, domácí tatarská omáčka
+### Oběd skoro nic,Smažený sýr, brambor, domácí tatarská omáčka,Kuře na paprice
 ### Večeře nic
 
 ## Úterý
 ### Snídaně rohlik
-### Oběd chleba
+### Oběd chleba,Řízek s bramborovou kaší,Kachna se zelím
 ### Večeře dvakrat chleba
 
 ## Středa
