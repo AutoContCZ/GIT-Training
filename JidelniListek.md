@@ -14,7 +14,7 @@ Dáša:  Kuře na paprice
 
 ## Úterý
 ### Snídaně
-### Oběd
+## Oběd 
 <<<<<<< HEAD
 JS:steak telecí
 =======
