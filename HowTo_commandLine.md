@@ -22,6 +22,8 @@ Návod na initializaci dává k dispozici i GitHub, když založíme nový repoz
 
 Pro úspěšný push potřebujeme mít alespoň 1 vytvořený, neprázdný soubor (nejčastěji je to README.md)
 
+Jako origin použijte URL, kterou vygeneruje GitHub.com. (V tomto případě ```git@github.com:KaschiCZE/test-repo.git```)
+
 ### Initializace
 
 ```git init```
