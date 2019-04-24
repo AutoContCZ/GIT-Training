@@ -1,4 +1,4 @@
-﻿# JÍDELNÍ LÍSTEK
+#JÍDELNÍ LÍSTEK
 
 ## Pondělí
 ### Snídaně
@@ -16,6 +16,7 @@
 JS:steak telecí
 Dáša: Řízek s bramborovou kaší
 Petr: Kachna se zelím
+MB: N/A
 
 ### Oběd
  - Dáša: Řízek s bramborovou kaší
@@ -49,6 +50,7 @@ JS:steak tuňák
 ### Rizoto	
  - Rizoto	
  - lukas: co dum dal
+ - MB: N/A
 ### Večeře
 
 ## Sobota
