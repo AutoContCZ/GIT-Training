@@ -8,6 +8,7 @@
  - Petr: Smažený sýr, brambor, domácí tatarská omáčka
  - Dáša:  Kuře na paprice
  - pavelhor: moje jidlo -obed
+ - Marek: Brambory
 ### Večeře
 
 ## Úterý
@@ -17,17 +18,18 @@ JS:steak telecí
 Dáša: Řízek s bramborovou kaší
 Petr: Kachna se zelím
 MB: N/A
-
+- Marek: Kaše
 ### Oběd
  - Dáša: Řízek s bramborovou kaší
  - Lukas: neni
  - Petr: Kachna se zelím
-### Večeře
+ ### Večeře
 
 ## Středa
 ### Snídaně
 ### Oběd
 JS:steak kuřecí
+- Marek: Špagety
 ### Špagety
 ### Oběd
  - Špagety
