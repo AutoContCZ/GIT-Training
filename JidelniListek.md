@@ -45,6 +45,7 @@ JS:steak klokan
 
 ## Pátek
 ### Snídaně
+- MB: kafe
 ### Oběd
 JS:steak tuňák
 ### Rizoto	
