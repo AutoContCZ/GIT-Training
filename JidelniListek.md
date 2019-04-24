@@ -2,27 +2,27 @@
 
 ## Pondělí
 ### Snídaně
-### Oběd
+### Kuře na paprice
 ### Večeře
 
 ## Úterý
 ### Snídaně
-### Oběd
+### Řízek s bramborovou kaší
 ### Večeře
 
 ## Středa
 ### Snídaně
-### Oběd
+### Dieta
 ### Večeře
 
 ## Čtvrtek
 ### Snídaně
-### Oběd
+### Zeleninový salát
 ### Večeře
 
 ## Pátek
 ### Snídaně
-### Oběd
+### Rizoto	
 ### Večeře
 
 ## Sobota
