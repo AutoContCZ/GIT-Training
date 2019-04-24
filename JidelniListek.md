@@ -12,7 +12,10 @@ Dáša:  Kuře na paprice
 
 ## Úterý
 ### Snídaně
-### Řízek s bramborovou kaší
+### Oběd
+Dáša: Řízek s bramborovou kaší
+
+Petr: Kachna se zelím
 ### Večeře
 
 ## Středa
