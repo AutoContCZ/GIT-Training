@@ -20,17 +20,20 @@ Petr: Kachna se zelím
 
 ## Středa
 ### Snídaně
-### Špagety
+### Oběd
+Špagety
 ### Večeře
 
 ## Čtvrtek
 ### Snídaně
-### Zeleninový salát
+### Oběd 
+Zeleninový salát
 ### Večeře
 
 ## Pátek
 ### Snídaně
-### Rizoto	
+### Oběd
+Rizoto	
 ### Večeře
 
 ## Sobota
