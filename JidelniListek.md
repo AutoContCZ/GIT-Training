@@ -5,6 +5,7 @@
 ### Oběd
 
  - Lukáš: slepice na smetaně
+ - Petr: Smažený sýr, brambor, domácí tatarská omáčka
 
 ### Večeře
 
