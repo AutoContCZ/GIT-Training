@@ -62,6 +62,7 @@
 ### Snídaně
 ### Oběd
 JS:Salatx
+PJ: Jitrnice jakou svět neviděl
 ### Večeře
 
 ## Neděle
