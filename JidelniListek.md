@@ -60,6 +60,7 @@
 ## Sobota
 ### Snídaně
 ### Oběd
+JS:Salat
 ### Večeře
 
 ## Neděle
