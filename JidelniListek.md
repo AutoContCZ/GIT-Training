@@ -1,29 +1,29 @@
-# JÍDELNÍ LÍSTEK
+﻿# JÍDELNÍ LÍSTEK
 
 ## Pondělí
-### Snídaně
-### Oběd
-### Večeře
+### Snídaně nic
+### Oběd skoro nic
+### Večeře nic
 
 ## Úterý
-### Snídaně
-### Oběd
-### Večeře
+### Snídaně rohlik
+### Oběd chleba
+### Večeře dvakrat chleba
 
 ## Středa
-### Snídaně
-### Oběd
-### Večeře
+### Snídaně nic
+### Oběd zase nic
+### Večeře rizek
 
 ## Čtvrtek
-### Snídaně
-### Oběd
-### Večeře
+### Snídaně dieta
+### Oběd chleba s maslem
+### Večeře parek rohlik
 
 ## Pátek
-### Snídaně
-### Oběd
-### Večeře
+### Snídaně nic
+### Oběd hlad
+### Večeře yase hlad
 
 ## Sobota
 ### Snídaně
