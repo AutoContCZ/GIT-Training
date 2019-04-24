@@ -1,4 +1,4 @@
-# JÍDELNÍ LÍSTEK
+﻿# JÍDELNÍ LÍSTEK
 
 ## Pondělí
 ### Snídaně
@@ -15,7 +15,7 @@ Dáša:  Kuře na paprice
 
 ## Středa
 ### Snídaně
-### Dieta
+### Špagety
 ### Večeře
 
 ## Čtvrtek
