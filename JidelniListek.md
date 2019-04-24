@@ -3,6 +3,9 @@
 ## Pondělí
 ### Snídaně
 ### Oběd
+
+ - Lukáš: slepice na smetaně
+
 ### Večeře
 
 ## Úterý
