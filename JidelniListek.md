@@ -1,4 +1,4 @@
-# JÍDELNÍ LÍSTEK
+﻿# JÍDELNÍ LÍSTEK
 
 ## Pondělí
 ### Snídaně
@@ -7,26 +7,27 @@
  - Lukáš: slepice na smetaně
  - Petr: Smažený sýr, brambor, domácí tatarská omáčka
 
+Dáša:  Kuře na paprice
 ### Večeře
 
 ## Úterý
 ### Snídaně
-### Oběd
+### Řízek s bramborovou kaší
 ### Večeře
 
 ## Středa
 ### Snídaně
-### Oběd
+### Špagety
 ### Večeře
 
 ## Čtvrtek
 ### Snídaně
-### Oběd
+### Zeleninový salát
 ### Večeře
 
 ## Pátek
 ### Snídaně
-### Oběd
+### Rizoto	
 ### Večeře
 
 ## Sobota
