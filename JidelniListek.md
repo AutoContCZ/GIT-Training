@@ -3,31 +3,31 @@
 ## Pondělí
 ### Snídaně
 ### Oběd
-steak hovězí
+JS:steak hovězí
 ### Večeře
 
 ## Úterý
 ### Snídaně
 ### Oběd
-steak telecí
+JS:steak telecí
 ### Večeře
 
 ## Středa
 ### Snídaně
 ### Oběd
-steak kuřecí
+JS:steak kuřecí
 ### Večeře
 
 ## Čtvrtek
 ### Snídaně
 ### Oběd
-steak klokan
+JS:steak klokan
 ### Večeře
 
 ## Pátek
 ### Snídaně
 ### Oběd
-steak tuňák
+JS:steak tuňák
 ### Večeře
 
 ## Sobota
