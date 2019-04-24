@@ -3,6 +3,8 @@
 ## Pondělí
 ### Snídaně
 ### Oběd
+Petr: Smažený sýr, brambor, domácí tatarská omáčka
+
 ### Večeře
 
 ## Úterý
