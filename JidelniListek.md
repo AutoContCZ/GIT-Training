@@ -32,8 +32,6 @@
 ### Snídaně
 ### Oběd
  - JS:steak kuřecí
-### Špagety
-### Oběd
  - Špagety
  - lukas: nudle
 ### Večeře
@@ -42,7 +40,6 @@
 ### Snídaně
 ### Oběd
  - JS:steak klokan
-### Zeleninový salát
  - lukas: petnik
  - Zeleninový salát
 ### Večeře
@@ -51,11 +48,10 @@
 ### Snídaně
 ### Oběd
  - JS:steak tuňák
-### Rizoto	
  - Rizoto	
  - lukas: co dum dal
  - MB: N/A
- -Marek: Vejce
+ - Marek: Vejce
 ### Večeře
 
 ## Sobota
