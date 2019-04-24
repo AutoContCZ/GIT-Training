@@ -13,27 +13,30 @@ Dáša:  Kuře na paprice
 ## Úterý
 ### Snídaně
 ### Oběd
-Dáša: Řízek s bramborovou kaší
-
-Petr: Kachna se zelím
+ - Dáša: Řízek s bramborovou kaší
+ - Lukas: neni
+ - Petr: Kachna se zelím
 ### Večeře
 
 ## Středa
 ### Snídaně
 ### Oběd
-Špagety
+ - Špagety
+ - lukas: nudle
 ### Večeře
 
 ## Čtvrtek
 ### Snídaně
 ### Oběd 
-Zeleninový salát
+ - lukas: petnik
+ - Zeleninový salát
 ### Večeře
 
 ## Pátek
 ### Snídaně
 ### Oběd
-Rizoto	
+ - Rizoto	
+ - lukas: co dum dal
 ### Večeře
 
 ## Sobota
