@@ -53,6 +53,7 @@ JS:steak tuňák
  - Rizoto	
  - lukas: co dum dal
  - MB: N/A
+ -Marek: Vejce
 ### Večeře
 >>>>>>> 31d19c5c6e35731be228bbd32dbed3b8f91b58c0
 
