@@ -1,13 +1,18 @@
-# JÍDELNÍ LÍSTEK
+﻿# JÍDELNÍ LÍSTEK
 
 ## Pondělí
 ### Snídaně
+Miloš - ovesný vločky
+
 ### Oběd
 ### Večeře
+Miloš - toust s hráškem
 
 ## Úterý
 ### Snídaně
 ### Oběd
+Miloš - Chicken Vindaloo
+
 ### Večeře
 
 ## Středa
