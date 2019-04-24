@@ -2,7 +2,10 @@
 
 ## Pondělí
 ### Snídaně
-### Kuře na paprice
+### Oběd
+Petr: Smažený sýr, brambor, domácí tatarská omáčka
+
+Dáša:  Kuře na paprice
 ### Večeře
 
 ## Úterý
