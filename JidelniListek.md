@@ -60,6 +60,7 @@ JS:steak tuňák
 ## Sobota
 ### Snídaně
 ### Oběd
+Salat
 ### Večeře
 
 ## Neděle
